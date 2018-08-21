@@ -6,6 +6,7 @@ public class Framework {
 		// TODO Auto-generated method stub
 		System.out.println("this is my framework");
 		System.out.println("Rajasri added new line");
+		System.out.println("Automation testing");
 	}
 
 }
