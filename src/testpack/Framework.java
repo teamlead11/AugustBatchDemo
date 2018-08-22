@@ -7,6 +7,7 @@ public class Framework {
 		System.out.println("th!s is my framework");
 		System.out.println("Rajasri added new line");
 		System.out.println("vignesh added new line");
+		System.out.println("jyothi added new line");
 	}
-syso
+//syso
 }
